@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-scainetwork.com-f4f4f5?style=for-the-badge)](https://scainetwork.com)
 [![Platform](https://img.shields.io/badge/Platform-app.scainetwork.com-d4af37?style=for-the-badge)](https://app.scainetwork.com)
-[![Documentation](https://img.shields.io/badge/Docs-Public%20Repository-0f172a?style=for-the-badge)](https://github.com/SCAI-NETWORK/Official-public-repository-for-SCAI-Social-AI-Network-documentation-roadmap-and-transparency-updates)
+[![Documentation](https://img.shields.io/badge/Docs-Public%20Repository-0f172a?style=for-the-badge)](https://github.com/SCAINETWORK/Official-public-repository-for-SCAI-Social-AI-Network-documentation-roadmap-and-transparency-updates)
 
 SCAI Social AI Network is building a private AI trading operating layer around autonomous bot engines, investor access, wallet-bound tiers, auditable smart-contract logic and fast execution workflows.
 
