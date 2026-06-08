@@ -10,6 +10,10 @@ SCAI Social AI Network is building a private AI trading operating layer around a
 
 The public GitHub organization exists for documentation, transparency updates, roadmap notes and public security posture. Private execution code, strategy logic, credentials, workers and infrastructure internals are intentionally not published.
 
+## Latest Public Update
+
+**2026-06-08:** SCAI updated its public documentation activity around DeFi-native strategy expansion, transparency posture and official publishing channels, including X, Medium and Paragraph.
+
 ## Public Repositories
 
 | Repository | Purpose |
